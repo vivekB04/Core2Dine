@@ -1,0 +1,17 @@
+/* 
+*{
+    background-color: #d49177ea;
+}
+p,h2,dt{
+    color: #183D2B;
+}
+
+h1{
+    color: #59c562;
+} */
+ a{
+    text-decoration: none;
+ }
+ a:hover{
+    text-decoration: underline;
+ }
